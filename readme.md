@@ -1,4 +1,4 @@
-# Saavn
+# greekninja
 
  <p>Playing high quality songs, over your web browser, ad-free experience, High-Quality Music upto 320kbps</p>
  
@@ -6,13 +6,11 @@
 
 ## Live Preview
 Preview is available at the links below : <br>
-[saavn-web-ui.vercel.app](https://saavn-web-ui.vercel.app/)<br>
-[saavn.codeforkers.tk](https://saavn.codeforkers.tk)
 
 ## Details
 > Status : `In Development`<br>
 Version : `v3.0` <br>
-Developers: `@wiz64`
+Developers: `@greekninja30`
 ## Features
 - ⭕ All basic features of a music player
 - :green_apple: Download MP3 Songs with metadata
@@ -41,7 +39,7 @@ This can be deployed to any Web Hosting Service, Platforms like Vercel, Heroku, 
 <br>
 
 ## Copyright & Credits
-> Developed by [@wiz64](https://github.com/wiz64) featuring API made by [@sumitkolhe](https://github/sumitkolhe) .
+> Developed by [@wiz64](https://github.com/greekninja) 
 
 XDA - Off Topic Group
 
